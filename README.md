@@ -5,6 +5,8 @@
 
 # RunePresence
 
+[![Vibe Coded](https://img.shields.io/badge/Vibe_Coded-✨-8A2BE2?style=for-the-badge)](https://github.com)
+
 Formerly known as RuneScape 3 Discord Rich Presence Integration
 
 ![RunePresence Banner](https://github.com/Nigel1992/RS3-Discord-Status/assets/5491930/de469f47-c284-40db-b5a9-95e9d44e117e)
